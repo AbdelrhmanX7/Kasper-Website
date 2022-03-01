@@ -4,7 +4,7 @@
 body {
     background-image: url("HTML_And_CSS_Template_Two-main/images/landing.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 header {
     width: 100%;
@@ -72,7 +72,7 @@ i {
     right: 40px;
     top: -7px;
 }
-.dropdown {
+.continer i:first-child:first-of-type {
     display: none;
 }
 /* EndOFheader */
