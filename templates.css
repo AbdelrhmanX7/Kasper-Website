@@ -5,6 +5,7 @@ body {
     background-image: url("HTML_And_CSS_Template_Two-main/images/landing.jpg");
     background-repeat: no-repeat;
     background-size: contain;
+    height: 1160px;
 }
 header {
     width: 100%;
